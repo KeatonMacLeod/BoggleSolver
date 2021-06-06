@@ -9,6 +9,7 @@ namespace BoggleSolver
         static void Main(string[] args)
         {
             Solver.scrabbleWords = new List<string>(File.ReadAllLines(@"C:\Users\macle\source\repos\BoggleSolver\ScrabbleWords.txt"));
+            Solver.maximumWordLength = 6;
 
             Console.WriteLine("Enter the single integer representing the LxW dimensions of the board:");
             int dimension = Int32.Parse(Console.ReadLine());

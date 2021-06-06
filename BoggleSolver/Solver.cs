@@ -10,6 +10,11 @@ namespace BoggleSolver
     public class Solver
     {
         /// <summary>
+        /// Maximum word length to search for.
+        /// </summary>
+        public static int maximumWordLength;
+
+        /// <summary>
         /// A list containing all valid scrabble words.
         /// </summary>
         public static List<string> scrabbleWords;
@@ -72,7 +77,7 @@ namespace BoggleSolver
                 printedWords.Add(word);
             }
 
-            if (characterStack.Count >= 7)
+            if (characterStack.Count >= Solver.maximumWordLength)
             {
                 characterStack.Pop();
                 return;
