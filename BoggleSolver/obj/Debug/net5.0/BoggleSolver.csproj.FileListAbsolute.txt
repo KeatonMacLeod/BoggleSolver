@@ -1,0 +1,16 @@
+C:\Users\macle\source\repos\BoggleSolver\BoggleSolver\bin\Debug\net5.0\BoggleSolver.exe
+C:\Users\macle\source\repos\BoggleSolver\BoggleSolver\bin\Debug\net5.0\BoggleSolver.deps.json
+C:\Users\macle\source\repos\BoggleSolver\BoggleSolver\bin\Debug\net5.0\BoggleSolver.runtimeconfig.json
+C:\Users\macle\source\repos\BoggleSolver\BoggleSolver\bin\Debug\net5.0\BoggleSolver.runtimeconfig.dev.json
+C:\Users\macle\source\repos\BoggleSolver\BoggleSolver\bin\Debug\net5.0\BoggleSolver.dll
+C:\Users\macle\source\repos\BoggleSolver\BoggleSolver\bin\Debug\net5.0\ref\BoggleSolver.dll
+C:\Users\macle\source\repos\BoggleSolver\BoggleSolver\bin\Debug\net5.0\BoggleSolver.pdb
+C:\Users\macle\source\repos\BoggleSolver\BoggleSolver\obj\Debug\net5.0\BoggleSolver.csproj.AssemblyReference.cache
+C:\Users\macle\source\repos\BoggleSolver\BoggleSolver\obj\Debug\net5.0\BoggleSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macle\source\repos\BoggleSolver\BoggleSolver\obj\Debug\net5.0\BoggleSolver.AssemblyInfoInputs.cache
+C:\Users\macle\source\repos\BoggleSolver\BoggleSolver\obj\Debug\net5.0\BoggleSolver.AssemblyInfo.cs
+C:\Users\macle\source\repos\BoggleSolver\BoggleSolver\obj\Debug\net5.0\BoggleSolver.csproj.CoreCompileInputs.cache
+C:\Users\macle\source\repos\BoggleSolver\BoggleSolver\obj\Debug\net5.0\BoggleSolver.dll
+C:\Users\macle\source\repos\BoggleSolver\BoggleSolver\obj\Debug\net5.0\ref\BoggleSolver.dll
+C:\Users\macle\source\repos\BoggleSolver\BoggleSolver\obj\Debug\net5.0\BoggleSolver.pdb
+C:\Users\macle\source\repos\BoggleSolver\BoggleSolver\obj\Debug\net5.0\BoggleSolver.genruntimeconfig.cache
