@@ -1,6 +1,6 @@
 # BoggleSolver
 
-This console application allows you to type in a Boggle board, and it will automatically find all the possible words that can be used to win the game.
+Type in the Boggle board, generate all the possible words you can write down to score the maximum number of points.
 
 
 ![BogglePicture](https://github.com/KeatonMacLeod/BoggleSolver/blob/master/BoggleBoard.jpg)
